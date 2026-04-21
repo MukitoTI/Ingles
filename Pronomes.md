@@ -28,7 +28,6 @@ Os Sujeitos praticam a ação e os objetos a recebem
   * **theirs**	- (deles/delas)
 
 
-
 ## 3.   Reflexivos  - recai sobre o próprio sujeito
   * **myself**	-	(eu mesmo)
   * **yourself** -	(você mesmo)
@@ -75,6 +74,32 @@ Os Sujeitos praticam a ação e os objetos a recebem
   * **that** -	(que)
   * **what** -	(o que/qual)
   * **whichever** -	(qualquer um que)
+
+
+
+---------------------------------------------------------
+
+# HAVER e HAS
+O uso de **has** é um dos pontos mais importantes do Simple Present. 
+Como vimos no exercício anterior, ele é a forma conjugada do verbo **have** (*ter*) para a terceira pessoa do singular.
+
+Aqui está a regra para você não confundir mais:
+
+Quando usar HAS:
+Usamos HAS apenas para:
+
+ * **He** (*Ele*) -> He has a car.
+ * **She** (*Ela*) -> She has a son.
+ * **It** (*Ele/Ela* para *objetos* ou *animais*) -> The computer has a virus.
+
+Quando usar HAVE:
+Usamos HAVE para o restante:
+
+ * **I** (Eu) -> I have a job.
+ * **You** (Você/Vocês) -> You have a nice house.
+ * **We** (Nós) -> We have a meeting.
+ * **They** (Eles/Elas) -> My friends have tickets.
+
 
 
 
