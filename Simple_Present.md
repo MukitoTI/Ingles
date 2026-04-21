@@ -38,6 +38,31 @@ Aqui é onde muita gente se confunde. Para negar ou perguntar, precisamos de "aj
     * **Do** you live in Brasília?
     * **Does** she have children?
    
+“Do” e “does” são formas do mesmo verbo (fazer) no presente simples, mas usados com sujeitos diferentes.
+
+### ✅ Regra básica:
+  * **Do** → I, You, We, They
+  * **Does** → He, She, It
+#### 📌 Exemplos afirmativos:
+  * I **do** my homework.
+  * They **do** exercises.
+  * He **does** his homework.
+  * She **does** the dishes.
+#### ❓ Perguntas:
+  * **Do** you like pizza?
+  * **Do** they work here?
+  * **Does** he play soccer?
+  * **Does** she study English?
+#### ❌ Negativo:
+  * I do not (**don’t**) like coffee.
+  * They **don’t** understand.
+  * He does not (**doesn’t**) like coffee.
+  * She **doesn’t** understand.
+#### ⚠️ Importante:
+Quando usa does, o verbo principal volta ao normal (sem “s”):
+  * ❌ He does **works**
+  * ✅ He does **work**
+   
 ---
 ### 4. Prática rápida
 Para conectar com o que você já sabe, veja como essas frases ficam no Simple Present:
