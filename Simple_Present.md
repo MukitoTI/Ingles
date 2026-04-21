@@ -46,3 +46,41 @@ Para conectar com o que você já sabe, veja como essas frases ficam no Simple P
   * **Trabalho**: We ***manage*** IT projects. (Nós gerenciamos projetos de TI).
 
 Transformar uma frase da sua rotina para o inglês usando o Simple Present?
+
+  *
+
+---
+## Dominando - três pontos que faltam para você dominar o assunto:
+
+### 1. Advérbios de Frequência (O "Quando")
+Como o Simple Present fala de rotina, ele quase sempre vem acompanhado de palavras que dizem com que frequência você faz algo. Elas geralmente ficam **antes** do verbo:
+  * **Always** (Sempre): I **always** check my emails.
+  * **Usually** (Geralmente): He **usually** works until 6 PM.
+  * **Often** (Frequentemente): We **often** use Python for scripts.
+  * **Sometimes** (Às vezes): I **sometimes** study at night.
+  * **Never** (Nunca): They **never** miss a deadline.
+
+---
+### 2. O Verbo "To Be" (A Exceção)
+Lembra que eu falei dos auxiliares Do/Does? O verbo **To Be** (Am, Is, Are) é independente. 
+Ele **não** usa ajudante para negar ou perguntar.
+  * **Errado**: Do you be married? * **Certo**: Are you married?
+  * **Errado**: I don't be an analyst.
+  * **Certo**: I am not (I'm not) an analyst.
+
+
+---
+### 3. Verbos de Estado vs. Ação
+O Simple Present também é usado para "Non-action verbs" (verbos que expressam sentimentos, sentidos ou posse), coisas que não estão "acontecendo" fisicamente agora, mas são verdades:
+  * **Understand**: I understand this code. (Eu entendo este código).
+  * **Know**: She knows the manager. (Ela conhece o gerente).
+  * **Want**: We want a coffee. (Nós queremos um café).
+
+
+---
+### Resumo do "Pulo do Gato":
+O Simple Present não serve para falar do que você está **fazendo exatamente agora** (isso seria o Present Continuous, o "ing").
+  * **Simple Present**: I drink coffee. (Eu bebo café — é um hábito meu).
+  * **Present Continuous**: I am drinking coffee. (Eu estou bebendo café — agora, neste segundo).
+
+
