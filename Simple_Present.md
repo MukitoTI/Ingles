@@ -109,3 +109,24 @@ O Simple Present não serve para falar do que você está **fazendo exatamente a
   * **Present Continuous**: I am drinking coffee. (Eu estou bebendo café — agora, neste segundo).
 
 
+
+
+<img width="521" height="261" alt="image" src="https://github.com/user-attachments/assets/c5a4b883-8f5d-4dc2-a825-4a0dac3de3b5" />
+<img width="495" height="588" alt="image" src="https://github.com/user-attachments/assets/b3b27449-71e9-4018-857b-cf2994041fe8" />
+
+<img width="540" height="402" alt="image" src="https://github.com/user-attachments/assets/2689e5d9-7557-440d-bade-70fce9328410" />
+
+-------------------------
+#### Exercise 5: Complete the Text Messages
+  * (2) **him**: "My parents don't like **him**..."
+    * (We use **him** because the parents don't like Tom.)
+  * (3) **them**: "Don't listen to **them**."
+    * (Mariela is talking about the parents, which is plural, so we use **them**.)
+  * (4) **her**: "...Tom and he likes **her**..."
+    * (Tom likes the sister, so we use the feminine object pronoun **her**.)
+  * (5) **us**: "...my sister comes with **us**."
+    * (The sister joins Tom and Michelle together—that's "**us**".)
+  * (6) **you**: "What about **you**?"
+    * (Michelle is asking Mariela for news about her own life.)
+  * (7) **it**: "Do you like **it**?"
+    * (Michelle is asking about the "new job," so we use the neutral pronoun **it**.)
