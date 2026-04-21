@@ -130,3 +130,14 @@ O Simple Present não serve para falar do que você está **fazendo exatamente a
     * (Michelle is asking Mariela for news about her own life.)
   * (7) **it**: "Do you like **it**?"
     * (Michelle is asking about the "new job," so we use the neutral pronoun **it**.)
+
+
+
+---
+
+#### Dica de Estudo:
+Como você está praticando o Simple Present, observe como quase todas as frases usam essa estrutura para falar de fatos e hábitos.
+
+  * **Perguntas**: "Do you like...?", "Who makes...?"
+  * **Negativas**: "I don't really like...", "I don't like going..."
+  * **Afirmativas**: "We have...", "I love...", "We enjoy..."
